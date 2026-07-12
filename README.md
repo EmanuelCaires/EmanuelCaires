@@ -26,16 +26,6 @@ Before pivoting into development I spent 15+ years in IT and operations, which m
 
 ## 🚀 Projects
 
-### [Traversa](https://github.com/EmanuelCaires) — AI-Powered Private Transfer Platform
-> Full product suite built solo: marketing site, client portal, driver app & admin dashboard
-
-- Integrated Anthropic's Claude API for an AI concierge booking experience
-- Built Canvas-based animated 3D globe and real-time flight ticker UI from scratch
-- Architected 3 fully independent apps with no cross-linking for security
-- **Stack:** HTML · CSS · Vanilla JS · Canvas API · Claude AI API
-
----
-
 ### [FactoryGym](https://github.com/EmanuelCaires/Factorygym) — Fitness Club Website
 > Responsive multi-section gym website, fully tested and deployed
 
