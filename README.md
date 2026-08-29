@@ -1,90 +1,248 @@
 # Hi, I'm Emanuel Caires 👋
 
-### Full Stack Developer · Bristol, UK
+### Full-Stack Developer | Building Web & Mobile Products
 
-I build web products from scratch — front to back. Currently developing **Traversa**, an AI-powered premium private transfer platform, solo. That means the marketing site, client portal, driver app, and admin dashboard — all of it.
+I'm a full-stack developer with a background in **IT, technical support and operations**, now focused on building practical web and mobile products.
 
-Before pivoting into development I spent 15+ years in IT and operations, which means I understand systems, reliability, and what it costs when things break.
+I work across **React, TypeScript, React Native, Python and Django**, using modern development tools and AI-assisted workflows to design, build, test and iterate efficiently.
+
+Currently focused on **Project Atlas, FuelFinder and EC1 Drink**.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Currently Building
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 🧭 Project Atlas — Developer Identity Platform
+
+A platform designed to help software developers build a trusted professional identity based on **evidence, verification and career growth**.
+
+The goal is to create a stronger connection between what developers can actually build and how employers evaluate technical ability.
+
+**Current phase:** Product & company foundation
+
+**Focus:** Product Architecture · Developer Experience · Verification · Career Technology
+
+---
+
+### ⛽ FuelFinder — Fuel Price & Station Finder
+
+A mobile application for finding fuel stations and comparing prices, initially focused on Portugal.
+
+Built around a provider-based data architecture so development data can later be replaced with official fuel-price sources without tightly coupling the application to a single API.
+
+**Features include:**
+
+- Location-aware station discovery
+- Interactive maps and station cards
+- Fuel price comparison
+- Station ranking and savings calculations
+- Favourite stations
+- Vehicle profiles
+- Petrol, diesel, EV and PHEV support
+- Provider-based data architecture
+- External navigation integration
+
+**Stack:** React Native · Expo · TypeScript · Expo Router · AsyncStorage · Maps & Location APIs · REST APIs
+
+---
+
+### ⚡ EC1 Drink — Wellness & Performance Brand
+
+Digital platform for **EC1 Drink**, a premium wellness and performance drink concept.
+
+The project combines product development, branding and software engineering, including a responsive product website and customer waitlist infrastructure.
+
+**Features include:**
+
+- Responsive product website
+- Product and flavour presentation
+- Ingredients and benefits sections
+- Customer waitlist
+- Supabase integration
+- Responsive navigation
+- Animated user interface
+- Production deployment
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Framer Motion · Supabase · Vercel
+
+---
+
+## 🧪 In Development
+
+### 🇵🇹 Portuguese Community Platform
+
+Web and mobile community platform designed to connect Portuguese people around the world.
+
+The concept includes:
+
+- Community questions and answers
+- Jobs and opportunities
+- Friendship and networking
+- Local information
+- Relocation support
+- Moving from Portugal to another country
+- Returning or moving to Portugal
+
+The project is currently in the product planning and design stage.
+
+---
+
+### 🚗 AutoVista
+
+Automotive platform currently in early product development.
+
+The project is being developed alongside my other product ideas, with further technical details to be published as development progresses.
+
+---
+
+# 🛠 Technical Skills
+
+## Core Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Canvas API](https://img.shields.io/badge/Canvas_API-FF6B35?style=flat-square&logoColor=white)
-![Claude API](https://img.shields.io/badge/Anthropic_Claude_API-191919?style=flat-square&logoColor=white)
+
+### Frontend
+
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `Responsive Design`
+
+### Mobile Development
+
+`React Native` · `Expo` · `Expo Router` · `AsyncStorage` · `React Native Maps` · `Location APIs`
+
+### Backend & APIs
+
+`Python` · `Django` · `Flask` · `REST APIs` · `Authentication` · `CRUD` · `Server-side Validation`
+
+### Databases & Data
+
+`PostgreSQL` · `MongoDB` · `Supabase` · `SQL` · `Relational Data Modelling`
+
+### Integrations
+
+`Stripe` · `Supabase` · `External APIs` · `Maps & Location APIs` · `Environment Configuration`
+
+### Development & Deployment
+
+`Git` · `GitHub` · `VS Code` · `Node.js` · `npm` · `pnpm` · `Vercel` · `Render` · `Netlify`
+
+### Testing & Quality
+
+`TypeScript Type Checking` · `Application Testing` · `Responsive Testing` · `Cross-browser Testing` · `W3C Validation` · `Lighthouse`
+
+### Software Engineering
+
+`Component-based Architecture` · `Provider/Data-layer Patterns` · `Separation of Concerns` · `Reusable Components` · `State Management` · `Error & Loading States` · `API Abstraction` · `Monorepo Workflows`
+
+### AI-Assisted Development
+
+`Codex` · `AI-assisted Debugging` · `Code Review` · `Implementation Planning` · `Prompt-driven Development Workflows`
 
 ---
 
-## 🚀 Projects
+## 📚 Earlier Projects
 
-### [FactoryGym](https://github.com/EmanuelCaires/Factorygym) — Fitness Club Website
-> Responsive multi-section gym website, fully tested and deployed
+### 🔧 WeRepair.io — Repair & E-commerce Platform
 
-- Passed W3C HTML & CSS validation · Strong Lighthouse scores on mobile & desktop
-- Image carousel, collapsible class sections, JS form validation
-- 177 commits tracked across the full build
-- **Stack:** HTML · CSS · JavaScript · Bootstrap · GitHub Pages
+Full-stack e-commerce and repair-service application developed with Django.
 
----
+The project includes product management, shopping-cart functionality, checkout, user authentication and online payments.
 
-### [WeRepair.io](https://github.com/EmanuelCaires/werepair.io) — Repair Service Platform
-> Web platform for a phone & computer repair business
-
-- **Stack:** HTML · CSS · JavaScript
+**Stack:** Python · Django · PostgreSQL · Stripe · HTML · CSS · JavaScript
 
 ---
 
-### [MyCookbook](https://github.com/EmanuelCaires/MYCOOKBOOK) — Recipe Management App
-> Full CRUD recipe app with user authentication and dynamic filtering
+### 🏋️ FactoryGym — Fitness Club Website
 
-- Tested across multiple browsers and devices
-- **Stack:** Python · Flask · MongoDB
+Responsive fitness-club website developed during my full-stack development training.
+
+- Responsive multi-section design
+- Image carousel
+- Collapsible class sections
+- JavaScript form validation
+- W3C HTML & CSS validation
+- Lighthouse testing
+- Cross-device testing
+
+**Stack:** HTML · CSS · JavaScript · Bootstrap · GitHub Pages
 
 ---
 
-### [WordGame](https://github.com/EmanuelCaires/wordgame) — Browser Word Game
-> Interactive word game built with vanilla JavaScript
+### 🍳 MyCookbook — Recipe Management Application
 
-- **Stack:** HTML · CSS · JavaScript
+Full CRUD recipe-management application with user authentication and dynamic recipe filtering.
+
+**Stack:** Python · Flask · MongoDB · HTML · CSS
 
 ---
 
-## 📜 Certifications
+### 🎮 WordGame — Browser Word Game
 
-- 🎓 Full Stack Web Developer (ongoing) — 2021–present
-- 🏅 CompTIA A+ — 2016–2017
-- 🌐 Management Technician Network — 2011–2012
+Interactive browser-based word game built with vanilla JavaScript.
+
+**Stack:** HTML · CSS · JavaScript
+
+---
+
+## 🎓 Background
+
+My route into software development builds on previous experience in **IT support, technical troubleshooting, systems and operations**.
+
+That background influences how I approach software — not only how to build features, but how systems behave when real users depend on them.
+
+I continue to develop my software engineering skills through hands-on product development, structured learning and building real applications.
+
+---
+
+## 📜 Certifications & Training
+
+🎓 **Full Stack Web Development** — Code Institute
+
+🏅 **CompTIA A+**
+
+🌐 **Management Technician Network**
 
 ---
 
 ## 🌍 Languages
 
-🇵🇹 Portuguese (Native) · 🇬🇧 English (Fluent) · 🇫🇷 French (Conversational) · 🇪🇸 Spanish (Conversational) · 🇨🇳 Mandarin (Learning)
+🇵🇹 **Portuguese** — Native  
+🇬🇧 **English** — Fluent  
+🇫🇷 **French** — Conversational  
+🇪🇸 **Spanish** — Conversational
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelCaires&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=c9a96e&icon_color=c9a96e&text_color=e8e4dc)
+I use GitHub as part of my day-to-day development workflow — planning features, managing branches, reviewing changes, testing implementations and tracking the evolution of my projects.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelCaires&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=c9a96e&text_color=e8e4dc)
+### Current Focus
 
+🧭 **Project Atlas** — Developer Identity Platform  
+⛽ **FuelFinder** — React Native / Expo mobile application  
+⚡ **EC1 Drink** — Next.js product platform  
+
+### Development Workflow
+
+`Feature Branches` · `Commits` · `Code Reviews` · `Testing` · `Refactoring` · `Documentation` · `Issue Tracking`
 ---
 
-## 📬 Get in touch
+## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-caires)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emanuelcaires1@gmail.com)
 
----
+I'm interested in **Junior / Full-Stack Developer opportunities**, particularly roles where I can continue growing while contributing to real products.
 
-*Open to Full Stack Developer roles in Bristol and remote* 🌍
+📍 **United Kingdom** · Open to remote opportunities
